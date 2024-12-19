@@ -1,10 +1,12 @@
-# notebook01-DataScience
-* Primeiro notebook de Python 🚀
+🚀 Primeiro Notebook de Python
+Este é o meu primeiro notebook explorando a linguagem Python! Aqui, pratico conceitos fundamentais, como:
 
-* Espero que goste! <3
-nome = "Ana"
-idade = 19
-nota = 10
+🐍 Declaração de variáveis
 
-print(f"Olá, meu nome é {nome}, tenho {idade} anos e minha nota foi {nota}!")
+🔢 Tipos de dados
 
+🎨 Estruturas de controle
+
+✨ Funções básicas
+
+Tudo com o objetivo de consolidar conhecimentos e dar os primeiros passos no incrível universo da programação. 🚀
