@@ -1,7 +1,7 @@
 # notebook01-DataScience
-# Primeiro notebook de Python 🚀
+* Primeiro notebook de Python 🚀
 
-# Espero que goste! <3
+* Espero que goste! <3
 nome = "Ana"
 idade = 19
 nota = 10
