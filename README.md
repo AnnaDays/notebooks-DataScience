@@ -1,4 +1,5 @@
 🚀 Primeiro Notebook de Python
+
 Este é o meu primeiro notebook explorando a linguagem Python! Aqui, pratico conceitos fundamentais, como:
 
 🐍 Declaração de variáveis
